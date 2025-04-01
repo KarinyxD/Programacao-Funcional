@@ -1,0 +1,1 @@
+-- Faça uma função que solicite um tempo em segundos e converta para horas, minutos e segundos, imprimindo no formato h:m:s.

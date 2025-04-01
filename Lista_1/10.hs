@@ -1,0 +1,1 @@
+-- Faça uma função que calcule o máximo divisor comum (MDC) de dois inteiros. Não vale usar função fornecida pelo Haskell.

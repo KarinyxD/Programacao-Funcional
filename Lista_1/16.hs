@@ -1,0 +1,1 @@
+-- Transforme a função da questão 13 em um operador.

@@ -1,0 +1,1 @@
+-- Implemente a função nAnd :: Bool -> Bool -> Bool que dá o resultado True, exceto quando seus dois argumentos são True.

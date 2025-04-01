@@ -1,0 +1,1 @@
+-- Faça uma função que calcule a multiplicação de dois inteiros positivos utilizando apenas a operação de soma e recursão.

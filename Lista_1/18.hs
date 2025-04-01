@@ -1,0 +1,1 @@
+-- Crie uma função que calcula a área de um círculo a partir do seu raio.

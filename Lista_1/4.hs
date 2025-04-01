@@ -1,0 +1,2 @@
+-- Fornecidos três valores, a, b e c, elaborar uma função que retorne quantos desses três números 
+-- são maiores que o valor médio entre eles.

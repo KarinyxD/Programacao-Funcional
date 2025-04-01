@@ -1,0 +1,1 @@
+-- Implemente uma função que calcula a soma de inteiros não negativos usando as funções sucessor (succ) e predecessor (pred).

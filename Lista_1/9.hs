@@ -1,0 +1,2 @@
+-- Escrever uma função que lê um valor N inteiro e positivo e calcula o valor de E.
+-- Fórmula: E = 1 + 1 / 1! + 1 / 2! + 1 / 3! + ... + 1 / N!

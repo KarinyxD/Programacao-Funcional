@@ -1,0 +1,1 @@
+-- Faça uma função que solicita um inteiro e verifica se ele é primo ou não.

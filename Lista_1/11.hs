@@ -1,0 +1,1 @@
+-- Faça uma função que calcule o mínimo múltiplo comum (MMC) de dois inteiros. Não vale usar função fornecida pelo Haskell.
