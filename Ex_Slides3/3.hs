@@ -1,0 +1,2 @@
+-- Faça uma função que verifique se um ano é bissexto ou não. Um ano é bissexto se ele
+-- for divisível por 400 ou é divisível por 4 mas não por 100.

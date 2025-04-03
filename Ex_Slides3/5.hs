@@ -1,0 +1,1 @@
+-- Faça uma função que lê 2 inteiros e verifica se eles são múltiplos ou não.

@@ -1,0 +1,2 @@
+-- Faça uma função que solicite 3 inteiros e os imprime em ordem crescente. Use show
+-- para converter de inteiro para String.

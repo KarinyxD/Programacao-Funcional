@@ -1,0 +1,2 @@
+-- Escreva um algoritmo que solicite a os três lados de um triângulo e verifique se é isóscele,
+-- equilátero ou escaleno
