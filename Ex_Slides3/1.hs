@@ -11,4 +11,3 @@ divg :: Int -> Int -> Int
 divg a b 
   | a < b = 0
   | otherwise = 1 + divg (a-b) b
-
