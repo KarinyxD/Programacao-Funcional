@@ -1,0 +1,2 @@
+--Crie as tuplas Tabuleiro (Char,Int) e Jogada (Jogador,Tabuleiro), sendo Jogador um sinônimo para String. 
+-- Crie uma função que recebe uma lista de jogadas e um jogador e retorne a quantidade de jogadas do jogador informado

@@ -1,0 +1,1 @@
+-- Crie uma função que recebe uma lista do tipo Triângulo (Float, Float, Float) e retorna uma lista do mesmo tipo contendo somente triângulos equilateros.

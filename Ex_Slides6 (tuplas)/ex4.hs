@@ -1,0 +1,1 @@
+-- Crie uma função que retorna uma o primeiro e o último elemento de uma lista.
