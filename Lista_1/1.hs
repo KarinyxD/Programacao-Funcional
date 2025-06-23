@@ -11,5 +11,5 @@ main = do{
 }
 
 --definição da funcao media
-media :: Float -> Float -> Float -> Float
+--media :: Float -> Float -> Float -> Float
 media a b c = (a + b + c) / 3

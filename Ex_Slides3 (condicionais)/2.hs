@@ -1,16 +1,17 @@
 -- Faça uma função que recebe 3 números e retorna o maior.
 
-main = do 
-  putStrLn "Digite o primeiro número: "
-  a <- readLn
-  putStrLn "Digite o segundo número: "
-  b <- readLn
-  putStrLn "Digite o terceiro número: "
-  c <- readLn
-  let maior_num = maior a b c
-  putStrLn ("O maior número é: " ++ show maior_num)
-
-maior :: Int -> Int -> Int -> Int
-maior a b c = if a > b && a > c then a 
-            else if b > a && b > c then b
-            else c
+-- Usando if
+maiorif :: Float -> Float -> Float -> Float
+maiorif a b c = if a >= b then
+                if a >= c then a 
+                else c
+              else 
+                if b >= c then b 
+                else c
+  
+-- Usando Guarda
+maiorguarda :: Float -> Float -> Float -> Float
+maiorguarda a b c
+  | a >= b && a >= c = a 
+  | b >= a && b >= c = b
+  | otherwise = c
