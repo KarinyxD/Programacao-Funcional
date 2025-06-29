@@ -1,7 +1,0 @@
--- 1. Crie uma função média que recebe uma lista e retorna a média dos elementos. Use definições
--- locais para calcular a soma e a quantidade dos elementos e, assim, obter a média.
--- 2. Crie uma função que implementa o algoritmo selection sort, uma vez usando let...in e outra
--- usando where.
--- 3. Implemente o algoritmo merge sort usando definições locais.
--- 4. Implemente uma função que calcule o fibonacci usando recursão em cauda. Use uma definição
--- local para a função auxiliar.
