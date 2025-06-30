@@ -1,6 +1,7 @@
 --Obs: Algumas funções podem funcionar com qualquer tipo. Nesses casos, não defina o
 --cabeçalho dessas funções.
---1. Implemente uma função que equivale à função foldl1.
+--1. Implemente uma função que equivale à função foldl1.7
+
 --2. Implemente uma função que equivale à função foldr1.
 --3. Implemente uma função que recebe uma função a->Bool e uma lista e retorna True se algum
 --elemento dessa lista obtém True com a função de entrada, ou False, caso todos os elementos
