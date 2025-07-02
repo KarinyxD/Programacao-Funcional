@@ -1,0 +1,16 @@
+-- 1. Modifique a implementação da função show de Stack para que não apareça o símbolo # quando
+-- uma pilha com um ou mais elementos é impressa. Ex.: show (Stk 5 (Stk 2 EmptyStk)) deve
+-- resultar em 5 | 2
+-- 2. Reimplemente a TAD Stack de modo que uma pilha contenha uma lista de valores: data Stack
+-- t = Stk [t]
+-- 3. Implemente uma TAD Lista com as seguintes operações:
+-- 1. show, que imprime igual a do Haskell (usando colchetes e vírgula);
+-- 2. read, que transforma de string para lista;
+-- 3. add, adiciona um elemento e na posição i;
+-- 4. remove, retira o elemento da posição i;
+-- 5. len, calcula o tamanho da lista;
+-- 6. vazia, indica se a lista está vazia ou não;
+-- 7. concatena, junta duas listas em uma só.
+-- 4. Implemente uma TAD Árvore de busca binária, que pode ser vazia ou ser um nó com duas
+-- subárvores. Implemente as funções show, add, remove, tamanho, altura e fromList (cria árvore a
+-- partir de uma lista do Haskell).
